@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "d507a9fb-8bc9-454b-af9f-c3f9bb654034": {
+      "ProjectGuid": "d507a9fb-8bc9-454b-af9f-c3f9bb654034",
+      "DisplayName": "Ejercicio_Negocio",
+      "ColorIndex": 0
+    },
+    "1d2c7914-8484-4b5e-8c2c-c45f73e4a7c4": {
+      "ProjectGuid": "1d2c7914-8484-4b5e-8c2c-c45f73e4a7c4",
+      "DisplayName": "Datos",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}
